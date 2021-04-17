@@ -98,7 +98,16 @@ p {
     
 }
 .links:hover{
-    background-color: dodgerblue;
+    background-color: dodgerblue;    
+}
+a{
+    text-decoration: none;   
+}
+.article:hover{
+    color:cadetblue;
+}
+html{
+scroll-behavior: smooth;
     
 }
 
